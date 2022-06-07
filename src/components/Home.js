@@ -5,7 +5,7 @@ function Home() {
   return (
   <div id= "home">
     <h1 style={{ color: "firebrick" }} >
-      Austin is a Web Developer from Whitesboro.
+      {name} is a web developer from {city}
     </h1>
   </div>
   );
